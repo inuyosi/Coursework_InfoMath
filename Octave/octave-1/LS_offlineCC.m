@@ -1,6 +1,6 @@
 %オフライン最小ニ乗法によるパラメータ推定
 %format long
-load 7prob_N.mat y2 % 観測データ
+load 7prob.mat y2 % 観測データ
 period=20
 segment=period/1;
 iteration=period/segment
